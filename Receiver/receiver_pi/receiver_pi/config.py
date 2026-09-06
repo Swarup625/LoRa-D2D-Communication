@@ -1,0 +1,4 @@
+UART_PORT = '/dev/ttyAMA0'
+BAUDRATE = 9600
+
+RECEIVER_ID = 100
